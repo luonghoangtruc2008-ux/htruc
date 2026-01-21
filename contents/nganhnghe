@@ -1,0 +1,33 @@
+ <html>
+  <head>
+       <meta charset="utf-8">
+       <style>
+         h1 { color: red; text-align: center; padding: 40;}
+         h2 {color: magenta;}
+         p {padding: 40;}
+       </style>
+  </head>
+  <body> 
+        <h1> GIỚI THIỆU </h1>
+   
+       <table>
+        <tr>
+          <td width="40%" style = "text-align: center; vertical-align: top;">
+             <img src="../images/unnamed.jpg" width="210" height="250">
+          </td>
+         <td>
+          <h2 style="color: orange; ">  Nickname: </h2>
+          Chups
+          <h2 style="color: blue; ">   Sở thích: </h2>
+          Nghe nhạc
+          <h2 style="color: green; ">  Sở trường: </h2>
+           Vẽ
+           <h2 style="color: magenta; ">  Ước mơ:  </h2>
+           Làm Siêu nhân
+           <h2 style="color: purple; ">   Dự định tương lai trong 5 năm tới:  </h2>
+          Mua nhà
+         </td>
+        </tr>
+      </table>
+    </body>
+    </html>
