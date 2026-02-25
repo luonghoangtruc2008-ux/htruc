@@ -9,15 +9,21 @@
 }
 .menu{
    flex: 5%;
-   background-color: gray;
+   background-color: darkgray;
 }
 .content{
    flex: 70%;
-   background-color: darkgray;
+   background-color: white;
+}
+.content iframe{
+   flex: 1;
+  border: none;
+  width: 100%;
+  height: 100%;
 }
 .footer{
    flex: 5%;
-   background-color: white;
+   background-color: black;
 }
 
 h1 {
