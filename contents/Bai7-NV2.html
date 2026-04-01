@@ -4,6 +4,14 @@
     <title>B7-NV1</title>
   </head>
   <body>
+    <p id="kq"> </p>
+<script>
+let pp = new URLSearchParams(window.location.search);
+let ten pp.get("txtTen");
+let yk pp.get("txtComment");
+document.getElementById("kq").innerHTML = "Cám ơn bạn " + ten
++ " đã góp ý <br><br>Chúng tôi ghi nhận ý kiến của bạn: <br>" + yk;
+</script>
     <form action="B7-NV1.html">
     <h3> Bloomy rất vui khi nhận được những đóng góp của bạn</h3>
     <p> Bloomy xin ghi nhận ý kiến đóng góp của bạn và sẽ khắc phục, cải tiến hơn</p>
